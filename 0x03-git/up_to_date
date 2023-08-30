@@ -1,0 +1,4 @@
+#!/bin/bash
+git pull
+touch
+vim up_to_date
